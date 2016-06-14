@@ -1,0 +1,96 @@
+<style type="text/css">
+
+
+/* general setting for all the tags in all of my recipe world pages*/
+html,body,h1,h2,h3,ul,ol,li,p,a
+{
+	padding:0;
+	border:0;
+	margin:0;
+}
+
+.introduction
+{
+	border:1px solid black;	
+	width:100%;
+        
+}
+.heading
+{
+          font-size:30px;
+          font-family:"segoe script";
+	  background-color:lightsteelblue;
+			
+}
+.RowOne
+{
+	font-size:19px;
+	background-color:lavender;
+        
+}
+.SCMchartlist
+{
+	margin:0px;
+	padding:0px;
+                
+		
+}
+.SCMchartlist ul
+{
+	list-style:none;
+	padding:0px;
+       
+	
+}
+
+.RowTwo
+{
+	font-size:19px;
+        background-color:lightYellow;
+}
+.RowThree
+{
+	font-size:19px;
+        background-color:lavender;
+	
+}
+.VCSfunctions ul
+{
+	list-style:none;
+	padding:0px;
+       
+}
+
+.RowFour
+{
+	font-size:19px;
+        background-color:lightyellow;
+}
+.OperationAndStorage ul
+{
+	list-style:none;
+	padding:0px;
+}
+
+.RowFive
+{
+   font-size:19px;
+   background-color:lavender;
+
+}
+.RowSix
+{
+        font-size:19px;
+        background-color:lightyellow;  
+}
+.NetworkModel ul
+{
+	list-style:none;
+	padding:0px;
+}
+.RowSeven
+{
+     font-size:19px;
+     background-color:lavender; 
+}
+
